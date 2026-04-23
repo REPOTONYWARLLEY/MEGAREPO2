@@ -4,11 +4,6 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
 
-
-
-
-
-
 <item>
 <title>[B][COLOR orange]##[/COLOR][COLOR white] TODAS AS SÉRIES NECESSITAM DO PLUGIN ELEMENTUM [/COLOR][COLOR orange]##[/COLOR][/B]</title> 
 <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/LEIACARALHO.png</thumbnail>
@@ -19,6 +14,21 @@
 
 [COLOR yellow]|[/COLOR]- SÉRIES NOVAS TODOS OS DIAS -[COLOR yellow]|[/COLOR]</info>
 </item>
+
+<item>
+<title>[COLOR white][B]DESTAQUE [/B][/COLOR][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]Tudo Culpa Dela [/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/TvshowsTBR/tudoculpadela.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/REPOTONYWARLLEY/MEGAREPO2/refs/heads/master/2026/TVS/tudoculpasua</externallink>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
+<info>
+[COLOR orange][B]Emissora:[/B][/COLOR] [COLOR white][B]Sky Atlantic [/B][/COLOR] 
+[COLOR orange][B]Lançada em:[/B][/COLOR] [COLOR white][B]2025[/B][/COLOR] 
+[COLOR orange][B]Gênero:[/B][/COLOR] [COLOR white][B]Mistério e Crime[/B][/COLOR] 
+[COLOR orange][B]Sinopse:[/B][/COLOR] [COLOR white][B]Marissa Irvine vai até um endereço comum — 14 Arthur Avenue — para buscar seu filho, Milo, depois de uma simples brincadeira entre crianças. No entanto, quando a porta se abre, uma estranha atende... e afirma nunca ter ouvido falar de Milo. O que começa como um mal-entendido rapidamente se transforma em um pesadelo angustiante, à medida que Marissa se vê envolvida em uma teia de segredos, mentiras e revelações perturbadoras. À medida que o mistério se aprofunda, Marissa terá que enfrentar o passado de outras pessoas — e o seu próprio — para proteger sua família e descobrir a verdade.[/B][/COLOR]
+[COLOR orange][B]Status:[/B][/COLOR] [COLOR white][B]Finalizada[/B][/COLOR]
+</info>
+</item>
+
 
 <item>
 <title>[COLOR white][B]DESTAQUE [/B][/COLOR][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]Pluribus [/B][/COLOR][COLOR orange]=-[/COLOR]</title>

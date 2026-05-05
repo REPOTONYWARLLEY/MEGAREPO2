@@ -38,6 +38,26 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=SÉRIES=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/REPOTONYWARLLEY/MEGAREPO2/refs/heads/master/2026/thumbs/serie.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/REPOTONYWARLLEY/MEGAREPO2/refs/heads/master/2026/menu_series</externallink>
+<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
+<info>
+
+
+[COLOR yellow]|[/COLOR]- SÉRIES LEGAIS DO MOMENTO -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
 <channels>
 <channel>
 <name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR lightblue]-=FILMES POR CATEGORIAS=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
@@ -159,23 +179,7 @@
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-
-
-
-<channels>
-<channel>
-<name>[B][COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=SÉRIES=-[/COLOR][/B] [B][COLOR lime](ON)[/COLOR][/B] [B][COLOR yellow]#[/COLOR][/B][B][COLOR white] USE COM ELEMENTUM[/COLOR][/B]</name>
-<thumbnail>https://raw.githubusercontent.com/REPOTONYWARLLEY/MEGAREPO2/refs/heads/master/2026/thumbs/serie.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/REPOTONYWARLLEY/MEGAREPO2/refs/heads/master/2026/menu_series</externallink>
-<fanart>http://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
-<info>
-
-
-[COLOR yellow]|[/COLOR]- SÉRIES LEGAIS DO MOMENTO -[COLOR yellow]|[/COLOR]</info>
-</channel>
-</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 

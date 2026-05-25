@@ -88,6 +88,13 @@
 </item>
 
 <item>
+<title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]PRÓXIMO EPISÓDIO (EM BREVE) 31 MAIO[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=xxxx</link>
+<thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/TvshowsTBR/origem.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/newfantvshows.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR yellow]|[/COLOR][COLOR green]TrBr[/COLOR][COLOR yellow]|[/COLOR][COLOR orange]-=[/COLOR][COLOR white][B]PRÓXIMOS EPISÓDIOS (EM BREVE) - Sairá 1 por semana[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=xxxx</link>
 <thumbnail>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/MM/iconsaddon/TvshowsTBR/origem.png</thumbnail>
